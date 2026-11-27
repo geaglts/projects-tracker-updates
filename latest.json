@@ -1,0 +1,8 @@
+{
+  "version": "0.80.0",
+  "file": "Projects Tracker_0.80.0_x64-setup.exe",
+  "sha256": "91a52a57042daa7a08cc6e766f9b8ed97c3446ba88d36beb509a02da4e5c87a6",
+  "size": 35997595,
+  "date": "2026-11-27T03:55:52.459Z",
+  "notes": "SOQL directo a la REST API: las consultas pasan de ~5 s a ~0.1 s"
+}
